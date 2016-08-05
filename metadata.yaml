@@ -1,0 +1,44 @@
+_repo: While-the-Billy-Boils_7144
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lawson, Henry
+    alias: Lawson, Henry Archibald Hertzberg
+    birthdate: 1867
+    deathdate: 1922
+    gutenberg_agent_id: '119'
+    url: http://www.gutenberg.org/2009/agents/119
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Lawson
+description: ''
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7144'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Australia -- Social life and customs -- Fiction'
+- !lcsh 'Frontier and pioneer life -- Fiction'
+- !lcsh 'Short stories'
+- GITenberg
+tableOfContents: An old mate of your father's -- Settling on the land -- Enter Mitchell
+  -- Stiffner and Jim -- When the sun went down -- The man who forgot -- Hungerford
+  -- A camp-fire yarn -- His country, after all -- A day on a selection -- That there
+  dog o'mine -- Going blind -- Arvie Aspinall's alarm clock -- Stragglers -- The Union
+  buries its dead -- On the edge of a plain -- In a dry season -- He'd come back --
+  Another of Mitchell's plans for the future -- Steelman -- Drifted back -- Remailed
+  -- Mitchell doesn't believe in the sack -- Shooting the moon -- His father's mate
+  -- An echo from the Old Bark School -- The shearing of the cook's dog -- "Dossing
+  out" and "camping" -- Across the straits -- "Some day" -- "Brummy Usen" -- The drover's
+  wife -- Steelman's pupil -- An unfinished love story -- Board and residence -- His
+  colonial oath -- A visit of condolence -- In a wet season -- "Rats" -- Mitchell,
+  a character sketch -- The Bush undertaker -- Our pipes -- Coming across -- The story
+  of Malachi -- Two dogs and a fence -- Jones's alley -- Bogg of Geebung -- She wouldn't
+  speak -- The geological spieler -- Macquarie's mate -- Baldy Thompson -- For auld
+  lang syne -- Notes on Australianisms.
+title: While the Billy Boils
+url: http://www.gutenberg.org/ebooks/7144
